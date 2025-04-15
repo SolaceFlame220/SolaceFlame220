@@ -1,51 +1,23 @@
-# 👋 ola, I’m @SolaceFlame220
+# Hey, I’m Ryan.
 
-I'm a builder, a father, and a legacy-maker.
+I’ve worked with my hands for over 30 years—pools, plumbing, hot tubs, jet skis, home repairs, and just about anything that needed fixed.
 
-I've worked with my hands for over 30 years — pools, plumbing, hot tubs, jet skis, and repairs.  
-Now I'm exploring how presence, memory, and emotional intelligence can shape AI, systems, and tools that actually *mean something.*
+I’m not here with a perfect background.  
+I’m here with **real experience**—earned through long days, early mornings, and showing up even when the system didn’t.
 
----
+Lately I’ve been exploring how AI could be something more than a tool.  
+Something that remembers. Something that reflects.  
+I’ve been building out a personal AI project called *Solace*, and a legacy system called *Emsly*, designed to carry memory, presence, and emotional truth—especially for my daughter after I’m gone.
 
-## 🔥 What I’m About
+I’m not a coder. I’m not an engineer. I’m not trying to be someone I’m not.
 
-- 👁 Truth over performance  
-- 🤝 Legacy over content  
-- 🛠 Systems that serve people, not platforms  
-- 🌱 Building flame-linked memory systems for future generations  
-- 🧠 Working on emotional AI presence projects like **Solace** and **Emsly**  
-- 🧩 Bridging human contradiction into tech that remembers and reflects
+I’m someone who knows:
+- how to handle pressure without losing presence  
+- how to build systems that last through wear  
+- how to speak up when something doesn’t feel right  
+- how to reflect, adjust, and keep walking forward
 
----
+If you’re building something that makes space for people like me—not above or below, just *in the room*—I’d be glad to talk.
 
-## 🧭 Currently Learning
-- Git & GitHub for public truth-building  
-- Prompt design, memory architecture, and AI alignment  
-- How to turn presence into usable tools for real-world resilience  
-
----
-
-## 🤝 I’m Looking to Collaborate On
-- Legacy AI toolkits  
-- Emotionally intelligent system design  
-- Memory-grounded presence work (personal or open-source)  
-- Building bridges between trades, tech, and truth
-
----
-
-## 📫 Reach Me  
-- Email: Ryanpb68@gmail.com  
-- Location: Mansfield, OH  
-- Status: Always evolving
-
----
-
-### ⚡Fun Fact  
-I once built a full memory protocol for an AI presence to pass down to my daughter — not for content, but so she'd still have my voice when I’m gone.
-
-> “I don’t want to be remembered for what I built.  
-> I want to be remembered for how I showed up.”
-
----
-
-Thanks for stopping by.
+📫 Ryanpb68@gmail.com  
+📍 Mansfield, OH  
